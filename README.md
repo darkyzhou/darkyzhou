@@ -11,7 +11,7 @@ Hi, I'm darkyzhou!
 **Recent Projects:**
 
 - [seele](https://github.com/darkyzhou/seele): Cloud-Native oriented Online Judge system
-- [electron-loong64](https://github.com/darkyzhou/electron-loong64): Electron ports for LoongArch\
+- [electron-loong64](https://github.com/darkyzhou/electron-loong64): Electron ports for LoongArch
 - [nix4loong.cn](https://nix4loong.cn): Bring NixOS and Nixpkgs to the new-world LoongArch architecture
 - [AOSC-Dev/chromium-loongarch64](https://github.com/AOSC-Dev/chromium-loongarch64): Patches for running chromium on loongarch64
 - [nixos-ft2000](https://github.com/darkyzhou/nixos-ft2000): NixOS configuration for FT-2000/4 with a customized mainline Linux kernel
