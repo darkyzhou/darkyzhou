@@ -6,7 +6,7 @@ Hi, I'm darkyzhou!
 - Currently porting and upstreaming packages for LoongArch via AOSC and NixOS
 - [darkyzhou.net](https://darkyzhou.net) is my Chinese blog for notes and musings on AI, Linux, and everything in between
 
-![](https://github-readme-stats-beryl-theta-93.vercel.app/api?username=darkyzhou&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&theme=dark&count_private=true&text_bold=false)
+![](https://github-readme-stats-beryl-theta-93.vercel.app/api?username=darkyzhou&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&theme=dark&count_private=true&text_bold=false&hide_title=true)
 
 **Recent Projects:**
 
