@@ -20,6 +20,7 @@ Hi, I'm darkyzhou!
 
 **Recent Articles:**
 
+- [浅谈 Context Engineering](https://darkyzhou.net/articles/context-engineering)
 - [提示词工程指北：从第一性原理出发](https://darkyzhou.net/articles/prompt-engineering-guide)
 - [聊聊 Deep Research、思考模型和 Agentic 技术](https://darkyzhou.net/articles/agent-2025)
 - [DeepSearch 技术沙龙参会笔记与个人思考](https://darkyzhou.net/articles/notes-on-deep-research-salon)
