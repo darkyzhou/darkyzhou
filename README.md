@@ -10,6 +10,7 @@ Hi, I'm darkyzhou!
 
 **Recent Projects:**
 
+- [mykvm](https://github.com/darkyzhou/mykvm): A KVM-over-IP solution running on Raspberry Pi Zero 2 W
 - [seele](https://github.com/darkyzhou/seele): Cloud-Native oriented Online Judge system
 - [electron-loong64](https://github.com/darkyzhou/electron-loong64): Electron ports for LoongArch
 - [nix4loong.cn](https://nix4loong.cn): Bring NixOS and Nixpkgs to the new-world LoongArch architecture
